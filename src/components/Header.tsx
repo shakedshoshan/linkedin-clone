@@ -38,7 +38,7 @@ function Header(){
                 <p>Home</p>
             </Link>
 
-            <Link href="/" className="icon hiddenmd:flex">
+            <Link href="/" className="icon hidden md:flex">
                 <UsersIcon className="h-5"/>
                 <p>Network</p>
             </Link>
